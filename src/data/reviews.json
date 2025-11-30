@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Emma Thompson",
+    "rating": 5,
+    "message": "Absolutely magical! J.K. Rowling created a world that captured my imagination from the very first page. The character development throughout the series is exceptional, and the way the story matures with each book is brilliant. A must-read for fantasy lovers of all ages."
+  },
+  {
+    "id": 2,
+    "name": "James Wilson",
+    "rating": 5,
+    "message": "The Harry Potter series is a masterpiece of storytelling. The intricate plot, rich world-building, and memorable characters make this one of the best fantasy series ever written. I've read it multiple times and discover something new each time. Highly recommended!"
+  },
+  {
+    "id": 3,
+    "name": "Sarah Martinez",
+    "rating": 4,
+    "message": "A wonderful series that combines adventure, friendship, and magic in the most delightful way. The books are engaging and well-written, perfect for both children and adults. The only reason I'm giving it 4 stars instead of 5 is because I wish there were more books in the series!"
+  }
+]
+
