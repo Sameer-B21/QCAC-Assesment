@@ -2,11 +2,11 @@ import React from 'react';
 
 export default function Features() {
   const features = [
-    { icon: '📚', title: 'Includes 7 books', description: 'Complete collection from Philosopher\'s Stone to Deathly Hallows' },
-    { icon: '🌍', title: 'Rich world-building', description: 'Immersive magical universe with detailed lore and history' },
-    { icon: '🏆', title: 'Award-winning fantasy storytelling', description: 'Recognized globally for exceptional narrative and character development' },
-    { icon: '👶', title: 'Suitable for ages 8+', description: 'Perfect for readers of all ages, growing with the characters' },
-    { icon: '✨', title: 'Iconic characters', description: 'Beloved characters like Harry, Hermione, and Ron' }
+    { icon: '📚', title: 'Seven-book collection', description: 'Complete collection from Philosopher\'s Stone to Deathly Hallows' },
+    { icon: '🌍', title: 'Rich magical world-building', description: 'Immersive magical universe with detailed lore and history' },
+    { icon: '🏆', title: 'Award-winning fantasy series', description: 'Recognized globally for exceptional narrative and character development' },
+    { icon: '✨', title: 'Iconic characters (Harry, Hermione, Ron)', description: 'Beloved characters that have captured hearts worldwide' },
+    { icon: '👶', title: 'Suitable for readers 8+', description: 'Perfect for readers of all ages, growing with the characters' }
   ];
 
   return (

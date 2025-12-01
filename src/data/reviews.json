@@ -1,21 +1,21 @@
 [
   {
     "id": 1,
-    "name": "Emma Thompson",
+    "name": "Hermione Granger",
     "rating": 5,
-    "message": "Absolutely magical! J.K. Rowling created a world that captured my imagination from the very first page. The character development throughout the series is exceptional, and the way the story matures with each book is brilliant. A must-read for fantasy lovers of all ages."
+    "message": "Absolutely brilliant! This series is a masterpiece of magical literature. The way J.K. Rowling weaves together themes of friendship, courage, and the battle between good and evil is simply extraordinary. I've read each book multiple times and discover new details every time. A must-read for any witch, wizard, or Muggle!"
   },
   {
     "id": 2,
-    "name": "James Wilson",
+    "name": "Ron Weasley",
     "rating": 5,
-    "message": "The Harry Potter series is a masterpiece of storytelling. The intricate plot, rich world-building, and memorable characters make this one of the best fantasy series ever written. I've read it multiple times and discover something new each time. Highly recommended!"
+    "message": "Bloody brilliant, this is! The adventures, the magic, the friendships - it's all there. Reading about Harry's journey through Hogwarts feels like coming home. The series gets better with each book, and the final battle is absolutely epic. Couldn't put it down!"
   },
   {
     "id": 3,
-    "name": "Sarah Martinez",
-    "rating": 4,
-    "message": "A wonderful series that combines adventure, friendship, and magic in the most delightful way. The books are engaging and well-written, perfect for both children and adults. The only reason I'm giving it 4 stars instead of 5 is because I wish there were more books in the series!"
+    "name": "Luna Lovegood",
+    "rating": 5,
+    "message": "The series is simply magical! The wizarding world feels so real and immersive. I love how the story grows darker and more complex as Harry matures. The characters are wonderfully developed, and the magical creatures are fascinating. It's like stepping into another world entirely!"
   }
 ]
 
